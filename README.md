@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Feng 👋
+# Hi, I'm Feng Fei 👋
 
 ### Technical Manager · AI Agent Engineer · Data Infrastructure Architect
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=LuckyCaptain-go&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -98,13 +98,71 @@ The system supports:
 
 ---
 
+## 📦 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/kweaver-ai/kweaver-core">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kweaver-ai&repo=kweaver-core&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/RhinoLink-Tech/DataSemanticHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RhinoLink-Tech&repo=DataSemanticHub&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
 ## 🧩 Maintained & Featured Projects
 
-### 1. Intelligent Data Q&A Platform
+### 1. [KWeaver Core](https://github.com/kweaver-ai/kweaver-core)
+
+**Role:** Maintainer / Core Contributor
+**Type:** Enterprise Decision Agent Foundation
+**Direction:** AI Agent + Context Engineering + Knowledge Network + Governed Execution
+
+KWeaver Core is an enterprise-oriented Agent foundation project. It focuses on connecting enterprise data, knowledge, tools, policies, and execution workflows into reliable decision-agent infrastructure.
+
+**My Contributions / Focus Areas:**
+
+* Participated in the maintenance and evolution of KWeaver Core
+* Focused on enterprise AI Agent infrastructure and decision-agent foundations
+* Worked around context engineering, semantic modeling, tool orchestration, and governed execution
+* Supported the construction of reliable Agent workflows for complex enterprise scenarios
+* Explored AI-native engineering practices for building intelligent data and decision systems
+
+**Tech Keywords:**
+`AI Agent` `Decision Agent` `Context Engineering` `Knowledge Network` `Semantic Modeling` `Tool Orchestration` `Governed Execution`
+
+---
+
+### 2. [DataSemanticHub](https://github.com/RhinoLink-Tech/DataSemanticHub)
+
+**Role:** Maintainer / Core Contributor
+**Type:** Intelligent Data Platform
+**Direction:** AI Agent + Data Semantics + Data Discovery + Data Governance
+
+DataSemanticHub focuses on intelligent data understanding and semantic data interaction. It is designed to help users discover, understand, and use enterprise data more efficiently through semantic modeling and intelligent interaction.
+
+**My Contributions / Focus Areas:**
+
+* Participated in the maintenance and development of DataSemanticHub
+* Focused on intelligent data discovery and semantic data understanding
+* Built capabilities around metadata, data assets, business semantics, and data interaction
+* Explored AI Agent-based “find data and ask data” workflows
+* Connected data semantics, governance, and intelligent query interaction into a unified platform direction
+
+**Tech Keywords:**
+`AI Agent` `Data Semantic` `Metadata` `Data Discovery` `Data Governance` `RAG` `Knowledge Graph` `Intelligent Data Q&A`
+
+---
+
+### 3. Intelligent Data Q&A Platform
 
 **Role:** Core Developer / Architect
 **Type:** AI Agent + Big Data + Data Governance
-**Status:** Actively maintained / continuously evolving
+**Status:** Product-level engineering experience
 
 A product-level intelligent data interaction platform that enables users to find, understand, and query enterprise data through natural language.
 
@@ -117,14 +175,14 @@ A product-level intelligent data interaction platform that enables users to find
 * Integrated knowledge graph and ontology network for semantic data understanding
 * Connected Trino / Presto / Spark for cross-source federated query
 * Built web-based conversational interaction and result visualization
-* Maintained part of the system components and technical documentation
+* Maintained system components and technical documentation
 
 **Tech Stack:**
 `LangChain` `ReAct` `Plan-and-Execute` `RAG` `Vector Search` `Knowledge Graph` `Ontology Network` `Trino` `Presto` `Spark` `Docker` `Kubernetes` `React`
 
 ---
 
-### 2. Data Virtualization Engine
+### 4. Data Virtualization Engine
 
 **Role:** Technical Lead / Architect
 **Type:** Data Infrastructure + Federated Query + Data Governance
@@ -147,7 +205,7 @@ A data virtualization engine designed to provide unified access to heterogeneous
 
 ---
 
-### 3. Distributed Cloud Object Storage System
+### 5. Distributed Cloud Object Storage System
 
 **Role:** Core Developer / Technical Expert
 **Type:** Distributed Storage + Cloud Native + High Performance Backend
@@ -170,7 +228,7 @@ An enterprise-level distributed object storage system supporting PB-level storag
 
 ---
 
-### 4. Cloud Transcoding Platform
+### 6. Cloud Transcoding Platform
 
 **Role:** Core Developer
 **Type:** C++ Backend + Media Processing
@@ -193,13 +251,16 @@ A cloud transcoding system supporting task scheduling, multi-bitrate transcoding
 
 ## 📌 Open Source & GitHub Activity
 
-I maintain and participate in projects related to:
+I maintain and contribute to open-source projects related to:
 
-* AI Agent-based data intelligence
+* Enterprise AI Agent infrastructure
+* Decision Agent foundation
+* Context engineering and semantic modeling
+* Intelligent data discovery and data Q&A
 * RAG and metadata retrieval
 * Knowledge graph-enhanced data understanding
 * Data virtualization and federated query engines
-* Distributed storage and cloud-native infrastructure
+* Distributed systems and cloud-native infrastructure
 * Backend engineering and system architecture
 * AI-native development and engineering productivity
 
@@ -211,9 +272,9 @@ My GitHub activity reflects continuous exploration in **AI Agent, data infrastru
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuckyCaptain-go&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyCaptain-go&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -223,7 +284,7 @@ My GitHub activity reflects continuous exploration in **AI Agent, data infrastru
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyCaptain-go&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -233,7 +294,7 @@ My GitHub activity reflects continuous exploration in **AI Agent, data infrastru
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckyCaptain-go&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -243,7 +304,7 @@ My GitHub activity reflects continuous exploration in **AI Agent, data infrastru
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=LuckyCaptain-go&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -306,7 +367,7 @@ Data Infrastructure + AI Agent + Knowledge Graph + Governance + Human Interactio
 
 ## 📫 Contact
 
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* GitHub: https://github.com/LuckyCaptain-go
 * Email: [332901848@qq.com](mailto:332901848@qq.com)
 
 ---

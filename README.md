@@ -1,14 +1,17 @@
+
 <div align="center">
 
-# Hi, I'm Feng Fei 👋
-
-### Entrepreneur · AI Agent Engineer · Data Infrastructure Architect
-
-**Building AI-native data semantic platforms for enterprise intelligence**
-
-`AI Agent` · `Data Semantics` · `RAG` · `Knowledge Graph` · `Data Governance` · `Intelligent Execution`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Feng%20Fei&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Entrepreneur%20%7C%20AI%20Agent%20Engineer%20%7C%20Data%20Infrastructure%20Architect&descAlignY=58&animation=fadeIn" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Building+AI-native+Data+Semantic+Platforms;AI+Agent+%7C+RAG+%7C+Knowledge+Graph;Data+Governance+%7C+Semantic+Modeling+%7C+Intelligent+Execution;From+Semantics+to+Action" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=LuckyCaptain-go&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br/><br/>
 
 [English](#-about-me) · [中文版本](#-中文版本)
 
@@ -32,16 +35,19 @@ I have 12 years of engineering experience across AI Agent systems, data infrastr
 
 ## 🚀 Current Focus
 
-- **AI-native Data Semantic Governance**
-- **Enterprise AI Agent Infrastructure**
-- **RAG-based Metadata & Knowledge Retrieval**
-- **Knowledge NetworkAI-native Data Semantic Governance**
-- **Enterprise AI Agent Infrastructure**
-- **RAG-based Metadata & Knowledge Retrieval**
-- **Knowledge Network & Semantic Modeling**
-- **Task Engine & Intelligent Execution**
-- **Data Virtualization & Federated Query**
-- **Cloud-native Data Infrastructure**
+<div align="center">
+
+| Direction | Description |
+|---|---|
+| 🧠 AI-native Data Semantic Governance | Build semantic layers for enterprise data intelligence |
+| 🤖 Enterprise AI Agent Infrastructure | Connect data, tools, knowledge, and execution |
+| 🔎 RAG-based Knowledge Retrieval | Retrieve metadata, metrics, documents, and knowledge assets |
+| 🕸️ Knowledge Network & Semantic Modeling | Organize business semantics into reusable knowledge networks |
+| 🧩 Task Engine & Intelligent Execution | Transform governance problems into executable tasks |
+| ⚙️ Data Virtualization & Federated Query | Provide unified access to heterogeneous data sources |
+| ☁️ Cloud-native Data Infrastructure | Build scalable and reliable data systems |
+
+</div>
 
 ---
 
@@ -105,7 +111,40 @@ It represents an enterprise AI work partner that understands business semantics,
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,go,java,python,docker,kubernetes,git,github,linux,mysql,redis,react" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20Agent-Enterprise%20Intelligence-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Knowledge%20Retrieval-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Knowledge%20Graph-Semantic%20Network-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Governance-Trusted%20Data-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Platform-From%20Semantics%20to%20Action-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge" />
+
+</div>
+
+---
+
 ## 📦 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/RhinoLink-Tech/DataSemanticHub">
+  <img src="https://img.shields.io/badge/DataSemanticHub-AI--native%20Data%20Semantic%20Platform-2C5364?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/kweaver-ai/kweaver-core">
+  <img src="https://img.shields.io/badge/KWeaver%20Core-Enterprise%20Decision%20Agent-0F2027?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+<br/>
 
 ### [DataSemanticHub](https://github.com/RhinoLink-Tech/DataSemanticHub)
 
@@ -404,6 +443,6 @@ AI Agent + 数据语义 + 知识网络 + 数据治理 + 智能执行
 
 <div align="center">
 
-### 🚀 Building AI-native data semantic platforms for the next generation of enterprise intelligence.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer&animation=fadeIn" />
 
 </div>

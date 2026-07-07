@@ -4,13 +4,11 @@
 
 ### Entrepreneur · AI Agent Engineer · Data Infrastructure Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Building+AI-native+Data+Semantic+Platforms;AI+Agent+%7C+RAG+%7C+Knowledge+Graph;Data+Governance+%7C+Semantic+Modeling+%7C+Intelligent+Execution;From+Semantics+to+Action" />
+**Building AI-native data semantic platforms for enterprise intelligence**
+
+`AI Agent` · `Data Semantics` · `RAG` · `Knowledge Graph` · `Data Governance` · `Intelligent Execution`
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=LuckyCaptain-go&label=Profile%20Views&color=0e75b6&style=flat" />
-
-<br/><br/>
 
 [English](#-about-me) · [中文版本](#-中文版本)
 
@@ -20,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-I am currently working on entrepreneurship with **RhinoLink-Tech / Lianxi Tech**, focusing on AI-native data semantic governance and intelligent execution platforms.
+I am currently working on entrepreneurship with **RhinoLink-Tech / 连犀智语**, focusing on **AI-native data semantic governance** and **intelligent execution platforms**.
 
-My work centers on turning fragmented enterprise data, business semantics, rules, knowledge assets, and workflows into a connected, explainable, and executable intelligent system.
+My work centers on transforming fragmented enterprise data, business semantics, rules, knowledge assets, and workflows into a connected, explainable, governable, and executable intelligent system.
 
 ```text
 AI Agent + Data Semantics + Knowledge Network + Governance + Intelligent Execution
@@ -34,28 +32,31 @@ I have 12 years of engineering experience across AI Agent systems, data infrastr
 
 ## 🚀 Current Focus
 
-- 🧠 **AI-native Data Semantic Governance**
-- 🤖 **AI Agent for Enterprise Data Intelligence**
-- 🔎 **RAG-based Metadata & Knowledge Retrieval**
-- 🕸️ **Knowledge Network & Semantic Modeling**
-- 🧩 **Task Engine & Intelligent Execution**
-- ⚙️ **Data Virtualization & Federated Query**
-- ☁️ **Cloud-native Data Infrastructure**
+- **AI-native Data Semantic Governance**
+- **Enterprise AI Agent Infrastructure**
+- **RAG-based Metadata & Knowledge Retrieval**
+- **Knowledge NetworkAI-native Data Semantic Governance**
+- **Enterprise AI Agent Infrastructure**
+- **RAG-based Metadata & Knowledge Retrieval**
+- **Knowledge Network & Semantic Modeling**
+- **Task Engine & Intelligent Execution**
+- **Data Virtualization & Federated Query**
+- **Cloud-native Data Infrastructure**
 
 ---
 
 ## 🏢 Working On
 
-### RhinoLink-Tech / Lianxi Tech
+### RhinoLink-Tech / 连犀智语
 
-I am serving RhinoLink-Tech in building an AI-native platform that helps enterprises connect data, semantics, knowledge, governance tasks, and execution workflows.
+I am serving **RhinoLink-Tech / 连犀智语** in building an AI-native platform that connects data, semantics, knowledge, governance tasks, and execution workflows.
 
 The goal is not to build just another chatbot, but to build an intelligent data workbench that can:
 
 - understand enterprise business semantics
 - organize knowledge into reusable networks
 - turn governance problems into executable tasks
-- connect data discovery, data Q&A, analysis, governance, and action
+- connect data discovery, data Q&A, data analysis, governance, and action
 - make AI outputs traceable, explainable, and auditable
 
 ---
@@ -104,46 +105,7 @@ It represents an enterprise AI work partner that understands business semantics,
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,go,java,python,docker,kubernetes,git,github,linux,mysql,redis,react" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![AI Agent](https://img.shields.io/badge/AI%20Agent-Enterprise%20Intelligence-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Knowledge%20Retrieval-blueviolet?style=for-the-badge)
-![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graph-Semantic%20Network-orange?style=for-the-badge)
-![Data Governance](https://img.shields.io/badge/Data%20Governance-Trusted%20Data-2E8B57?style=for-the-badge)
-![Semantic Platform](https://img.shields.io/badge/Semantic%20Platform-From%20Semantics%20to%20Action-4682B4?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Cloud%20Native-326CE5?style=for-the-badge)
-
-</div>
-
----
-
 ## 📦 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/kweaver-ai/kweaver-core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kweaver-ai&repo=kweaver-core&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/RhinoLink-Tech/DataSemanticHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RhinoLink-Tech&repo=DataSemanticHub&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🧩 Featured Projects
 
 ### [DataSemanticHub](https://github.com/RhinoLink-Tech/DataSemanticHub)
 
@@ -156,28 +118,39 @@ An intelligent data semantic platform focused on data discovery, semantic unders
 
 ### [KWeaver Core](https://github.com/kweaver-ai/kweaver-core)
 
-An enterprise-oriented Agent foundation project focused on decision-agent infrastructure, context engineering, and governed execution.
+An enterprise-oriented Agent foundation project focused on decision-agent infrastructure, context engineering, knowledge networks, and governed execution.
 
 **Focus Areas:**  
 `AI Agent` · `Decision Agent` · `Context Engineering` · `Knowledge Network` · `Tool Orchestration` · `Governed Execution`
 
 ---
 
-### Intelligent Data Q&A Platform
+## 🧩 Engineering Background
 
-A natural-language-driven data interaction platform that helps users find, understand, and query enterprise data.
+### Intelligent Data Q&A
 
-**Focus Areas:**  
-`AI Agent` · `RAG` · `Knowledge Graph` · `Data Governance` · `Federated Query`
+A natural-language-driven data interaction direction that helps users find, understand, and query enterprise data.
+
+**Keywords:**  
+`AI Agent` · `RAG` · `Knowledge Graph` · `Metadata` · `Data Governance` · `Federated Query`
 
 ---
 
-### Data Virtualization Engine
+### Data Virtualization
 
-A unified data access layer for heterogeneous data sources, supporting metadata management, query optimization, permission control, and data exploration.
+A unified data access layer for heterogeneous data sources, supporting cross-source query, metadata management, query optimization, permission control, and data exploration.
 
-**Focus Areas:**  
-`Trino` · `Presto` · `Spark` · `Hive` · `Federated Query` · `Data Governance`
+**Keywords:**  
+`Trino` · `Presto` · `Spark` · `Hive` · `OpenLookeng` · `Federated Query` · `Data Governance`
+
+---
+
+### Distributed Storage
+
+A distributed object storage and cloud-native infrastructure direction focused on high-performance backend architecture and large-scale data systems.
+
+**Keywords:**  
+`C/C++` · `S3` · `Ceph` · `MinIO` · `HDFS` · `Raft` · `CRUSH` · `Kubernetes`
 
 ---
 
@@ -186,57 +159,25 @@ A unified data access layer for heterogeneous data sources, supporting metadata 
 I maintain and contribute to projects around:
 
 - AI-native data semantic governance
-- Enterprise AI Agent infrastructure
-- Intelligent data discovery and data Q&A
-- Semantic data platforms and knowledge networks
-- Task-driven governance and intelligent execution
-- Data virtualization and federated query
-- Cloud-native data infrastructure
+- enterprise AI Agent infrastructure
+- intelligent data discovery and data Q&A
+- semantic data platforms and knowledge networks
+- task-driven governance and intelligent execution
+- data virtualization and federated query
+- cloud-native data infrastructure
 
 My GitHub activity reflects continuous exploration in **AI Agent, data semantics, knowledge networks, and intelligent data infrastructure**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LuckyCaptain-go&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyCaptain-go&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuckyCaptain-go&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuckyCaptain-go&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
 ## 🌱 Current Interests
 
 - AI Agent for enterprise data intelligence
-- Data semantic governance and semantic modeling
+- data semantic governance and semantic modeling
 - RAG + Knowledge Graph for trusted data interaction
-- Task engine and intelligent execution workflows
+- task engine and intelligent execution workflows
 - AI-native development and product engineering
-- Open-source intelligent data infrastructure
+- open-source intelligent data infrastructure
 
 ---
 
@@ -268,13 +209,17 @@ Data Semantics + Knowledge Network + AI Agent + Governance + Execution
 
 ### 创业者 · AI Agent 工程师 · 数据基础设施架构师
 
+**正在建设面向企业智能的数据语义治理与智能执行平台**
+
+`AI Agent` · `数据语义` · `RAG` · `知识图谱` · `数据治理` · `智能执行`
+
 </div>
 
 ---
 
 ## 👨‍💻 关于我
 
-我目前主要在创业，服务于 **RhinoLink-Tech / 链犀科技**，聚焦于 **AI 原生数据语义治理平台** 与 **智能执行系统** 的建设。
+我目前主要在创业，服务于 **RhinoLink-Tech / 连犀智语**，聚焦于 **AI 原生数据语义治理平台** 与 **智能执行系统** 的建设。
 
 我的工作重点是将企业中分散的数据、业务语义、规则、知识资产和流程任务连接起来，构建一个可理解、可解释、可治理、可执行的智能系统。
 
@@ -288,21 +233,21 @@ AI Agent + 数据语义 + 知识网络 + 数据治理 + 智能执行
 
 ## 🚀 当前方向
 
-- 🧠 **AI 原生数据语义治理**
-- 🤖 **面向企业数据智能的 AI Agent**
-- 🔎 **基于 RAG 的元数据与知识检索**
-- 🕸️ **知识网络与语义建模**
-- 🧩 **任务引擎与智能执行**
-- ⚙️ **数据虚拟化与联邦查询**
-- ☁️ **云原生数据基础设施**
+- **AI 原生数据语义治理**
+- **企业级 AI Agent 基础设施**
+- **基于 RAG 的元数据与知识检索**
+- **知识网络与语义建模**
+- **任务引擎与智能执行**
+- **数据虚拟化与联邦查询**
+- **云原生数据基础设施**
 
 ---
 
 ## 🏢 当前创业方向
 
-### RhinoLink-Tech / 链犀科技
+### RhinoLink-Tech / 连犀智语
 
-我正在服务 RhinoLink-Tech，建设面向企业的数据语义治理与智能执行平台。
+我正在服务 **RhinoLink-Tech / 连犀智语**，建设面向企业的数据语义治理与智能执行平台。
 
 我们的目标不是做一个简单的聊天机器人，而是构建一个能够连接数据、语义、知识、治理任务和执行流程的智能数据工作台。
 
@@ -380,23 +325,32 @@ AI Agent + 数据语义 + 知识网络 + 数据治理 + 智能执行
 
 ---
 
-## 🧩 代表项目
+## 🧩 工程背景
 
-### 智能数据问答平台
+### 智能数据问答
 
-一个基于自然语言的数据交互平台，帮助用户完成数据发现、数据理解和数据查询。
+面向企业数据场景的自然语言交互方向，帮助用户完成数据发现、数据理解和数据查询。
 
-**方向：**  
-`AI Agent` · `RAG` · `知识图谱` · `数据治理` · `联邦查询`
+**关键词：**  
+`AI Agent` · `RAG` · `知识图谱` · `元数据` · `数据治理` · `联邦查询`
 
 ---
 
-### 数据虚拟化引擎
+### 数据虚拟化
 
-面向异构数据源的统一数据访问层，支持元数据管理、查询优化、权限控制与数据探查。
+面向异构数据源的统一数据访问层，支持跨源查询、元数据管理、查询优化、权限控制与数据探查。
 
-**方向：**  
-`Trino` · `Presto` · `Spark` · `Hive` · `联邦查询` · `数据治理`
+**关键词：**  
+`Trino` · `Presto` · `Spark` · `Hive` · `OpenLookeng` · `联邦查询` · `数据治理`
+
+---
+
+### 分布式存储
+
+面向大规模数据系统的分布式对象存储与云原生基础设施方向，关注高性能后端架构与系统可靠性。
+
+**关键词：**  
+`C/C++` · `S3` · `Ceph` · `MinIO` · `HDFS` · `Raft` · `CRUSH` · `Kubernetes`
 
 ---
 
